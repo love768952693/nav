@@ -3,7 +3,7 @@
 ## 网址导航页面配置
 ################
 # 网站标题
-title: GenEasy 网址导航
+title: 指路人
 # 网站 LOGO（可选）
 # logo: https://webstack.cc/assets/images/logo@2x.png
 # 网址导航页面关键字（可选）
@@ -33,9 +33,9 @@ friendship_links_url: https://geneasy.github.io/links/
 ## 导航栏
 ################
 navigation_urls:
-  - title: 页面1
+  - title: 页面12
     url: page1/
-  - title: 页面2
+  - title: 页面21
     url: page2/
 
 ################
