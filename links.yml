@@ -132,9 +132,13 @@ categories:
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
 
-  - category: 网络维护
+  - category: 网络管理
     icon: linecons-doc
     links:
+      - title: pve
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
+        url: https://192.168.199.253:8006/
+        description: 快来提交你的网站吧
       - title: 主路由
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">i</text></svg>
         url: http://192.168.199.254
@@ -152,7 +156,7 @@ categories:
         url: http://192.168.199.251
         description: 快来提交你的网站吧
       - title: 旁ap
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">Mi</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">M</text></svg>
         url: http://192.168.199.34
         description: 快来提交你的网站吧
 
