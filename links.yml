@@ -91,16 +91,16 @@ categories:
         description: A command line tool that can easily generate HTML, Markdown documents, etc.
         tags: cli,tools
 
-  - category: 程序员博客
+  - category: 常用网址
     icon: linecons-doc
     links:
-      - title: 等你来加➕
+      - title: 百度搜索
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
+        url: https://www.baidu.com
         description: 快来提交你的网站吧
-      - title: 等你来加➕
+      - title: 谷歌搜索
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
+        url: https://www.google.com
         description: 快来提交你的网站吧
         tags: 程序员,生活,创意
       - title: 等你来加➕
