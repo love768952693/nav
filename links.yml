@@ -132,9 +132,17 @@ categories:
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
 
-  - category: 网络管理
+  - category: 设备管理
     icon: linecons-doc
     links:
+      - title: DS918
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
+        url: https://192.168.199.120:8520/
+        description: Synology 918
+      - title: DS1821
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
+        url: https://192.168.199.120:8520/
+        description: Synology 1821
       - title: pve
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://192.168.199.253:8006/
