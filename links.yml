@@ -162,7 +162,7 @@ categories:
       - title: 主ap
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">H</text></svg>
         url: http://192.168.199.251
-        description: 华为7060dn企业ao
+        description: 华为7060dn企业ap
       - title: 旁ap
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">M</text></svg>
         url: http://192.168.199.34
