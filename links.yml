@@ -95,7 +95,7 @@ categories:
     icon: linecons-doc
     links:
       - title: 百度搜索
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">B</text></svg>
         url: https://www.baidu.com
         description: 快来提交你的网站吧
       - title: 谷歌搜索
@@ -112,17 +112,17 @@ categories:
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
 
-  - category: 设计师博客
+  - category: 影音娱乐
     icon: linecons-doc
     links:
-      - title: viggo
+      - title: emby影视
         logo: https://images.weserv.nl/?url=work.viggoz.com/images/favicon.png&w=60&h=60
-        url: http://blog.viggoz.com/
-        description: Webstack 的设计师
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
+        url: http://192.168.199.120:8096/web/index.html#!/home
+        description: 
+      - title: 相册空间
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">E</text></svg>
+        url: https://192.168.199.121:8520/?launchApp=SYNO.Foto.AppInstance#/album
+        description: 
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://github.com/geneasy/nav/issues
