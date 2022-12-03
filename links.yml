@@ -42,7 +42,7 @@ navigation_urls:
 ## 网址导航数据
 ################
 categories:
-  - category: 新添加
+  - category: 常用
     icon: linecons-star
     links:
       - title: P站问答
