@@ -168,17 +168,17 @@ categories:
         url: http://192.168.199.34
         description: 小米AX6000家用ap
 
-  - category: 社区
+  - category: 家居
     icon: linecons-doc
     links:
-      - title: 抛砖问答
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
-        url: https://pzwd.net/
-        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
+      - title: 智能家居
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">H</text></svg>
+        url: http://192.168.199.250:8123/lovelace/default_view
+        description: Home Assistant 智能家居
         tags: 程序员,问答,社区,stackoverflow
-      - title: 独立开发者社区
-        logo: https://indiehackers-1251406926.cos.ap-chengdu.myqcloud.com/hackers/7cl3u.png
-        url: https://w2solo.com/
+      - title: docker管理
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">D</text></svg>
+        url: http://192.168.199.250:9000/
         description: 「w2solo.com」独立开发者社区，由众多独立开发者维护，致力于搭建和维护好国内独立开发者圈子和氛围。
       - title: Pipecraft 社区
         logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
