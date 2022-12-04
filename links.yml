@@ -135,10 +135,10 @@ categories:
   - category: 设备管理
     icon: linecons-doc
     links:
-      - title: DS918
+      - title: DS920
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://192.168.199.120:8520/
-        description: Synology 918
+        description: Synology 920
       - title: DS1821
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://192.168.199.120:8520/
